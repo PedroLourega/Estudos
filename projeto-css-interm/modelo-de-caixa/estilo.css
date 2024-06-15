@@ -1,6 +1,7 @@
 .conteudo{
     border: 1px solid red;
-
+    width: 150px;
+    
     padding: 20px;
     /*padding-top: 20px;
     padding-right: 20px;
@@ -16,5 +17,5 @@
     margin-left: 20px;*/
     
 
-    width: 150px;
+    
 }
